@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Mobilisten (5.0.0)
+  - salesiq_mobilisten (5.0.0):
+    - Flutter
+    - Mobilisten (= 5.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - salesiq_mobilisten (from `.symlinks/plugins/salesiq_mobilisten/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Mobilisten
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  salesiq_mobilisten:
+    :path: ".symlinks/plugins/salesiq_mobilisten/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  Mobilisten: e398b9273fc45859c8599ddcb0d0bd7ac2c059ea
+  salesiq_mobilisten: 3aa67c35cc7ee5e11618e26108d19c80bde80709
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
